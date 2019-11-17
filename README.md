@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Github together.
-dding a line for rebasing example
+dding a line for rebasing example, then more changes from myfeature branch too
 ## Introduction
 
 This is example is to show different parts of the Git repository and various commands using a web project
